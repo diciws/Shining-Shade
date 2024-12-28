@@ -1,6 +1,6 @@
 package at.dici.shade.userapplications.ghostevidenceanalyzer;
 
-import at.dici.shade.utils.doofutil.StringParser;
+import at.dici.shade.utils.util.StringParser;
 
 public class GeaController {
     public static final String moduleName = "gea";

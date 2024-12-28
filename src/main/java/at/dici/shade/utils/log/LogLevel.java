@@ -1,8 +1,5 @@
 package at.dici.shade.utils.log;
 
-/**
- * @author dici
- */
 public enum LogLevel {
 
     DEBUG(0, "\u001B[36m"),

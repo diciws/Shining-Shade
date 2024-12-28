@@ -22,7 +22,7 @@ public class SteamWebAPI {
     private final String steamid;
     private final boolean havePhasmo;
     private final boolean haveVACation;
-    private final SteamWebApiClient client = new SteamWebApiClient.SteamWebApiClientBuilder("").build();
+    private final SteamWebApiClient client = new SteamWebApiClient.SteamWebApiClientBuilder("56DC7CB71EF7B0C40F5601011E2AA2AD").build();
 
     public SteamWebAPI(String steamid) {
         this.steamid = steamid;

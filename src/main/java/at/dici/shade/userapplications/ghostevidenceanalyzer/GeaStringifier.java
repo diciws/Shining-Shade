@@ -1,6 +1,6 @@
 package at.dici.shade.userapplications.ghostevidenceanalyzer;
 
-import at.dici.shade.utils.doofutil.BaseLong;
+import at.dici.shade.utils.util.BaseLong;
 import at.dici.shade.utils.phasmophobia.Evidence;
 import at.dici.shade.utils.phasmophobia.Ghost;
 

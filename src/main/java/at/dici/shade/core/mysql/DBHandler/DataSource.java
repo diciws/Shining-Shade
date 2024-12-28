@@ -33,7 +33,7 @@ public class DataSource {
         }
 
         HikariConfig config = new HikariConfig();
-        config.setJdbcUrl( "jdbc:mysql://localhost:3306/db" );
+        config.setJdbcUrl( "jdbc:mysql://localhost:3306/shadebot" );
         config.setUsername( "shadebot" );
         config.setPassword( "password" );
         config.addDataSourceProperty( "cachePrepStmts" , "true" );

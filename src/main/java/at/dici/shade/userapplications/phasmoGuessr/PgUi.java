@@ -201,7 +201,7 @@ public class PgUi {
                 .setDescription(
                         lang.getText("testmsg_desc_welcome")
                                 .replace("**/pgstart**", CommandHandler.getCommandAsMention(jda, "pgstart")))
-                .setImage("")
+                .setImage("https://cdn.discordapp.com/attachments/1026827206082695228/1046399147969875988/doof_34.jpg")
                 .build();
     }
     public String getTextSetChannelSuccess() {

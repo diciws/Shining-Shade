@@ -15,7 +15,7 @@ public class BotInvite extends ListenerAdapter {
                 Logger.log(LogLevel.INFORMATION,"Registry of new Guild success: " + event.getGuild().getName())
         );
         /**
-        TODO: (dici)
+        TODO:
          - send embed message on connect: (No solution found yet)
 
          possible commands:

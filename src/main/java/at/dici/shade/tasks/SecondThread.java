@@ -25,6 +25,7 @@ public class SecondThread extends Thread {
 
 	private static class UpdateActivity {
 		private final String[] playing = {
+				"with doof & dici Phasmophobia",
 				"try /shade",
 				"nothing, because I'm shy :c",
 				"discovering myself",

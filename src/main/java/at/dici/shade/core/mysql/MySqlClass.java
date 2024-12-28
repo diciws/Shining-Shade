@@ -16,7 +16,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.function.Consumer;
 /**
- * @author dici
+ * @author dici 01.05.2018
  */
 @Getter
 public class MySqlClass {

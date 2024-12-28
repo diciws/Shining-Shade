@@ -13,9 +13,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-/**
- * @author dici
- */
 public class Logger {
     public static final String RESET_CONSOLE_COLOR = "\u001B[0m";
     public static TextChannel channel = null;
